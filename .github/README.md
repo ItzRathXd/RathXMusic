@@ -85,7 +85,7 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [Krishsuperyo](https://github.com/Krishsuperyo): Developer
+- [Ashmit](https://github.com/Ashmit-OP): Developer
 - [Fallen Music Bot](https://telegram.me/FALLEN_X_MUSIC_BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
