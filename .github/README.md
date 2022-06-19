@@ -3,7 +3,7 @@
 </p>
 <p align="center"><a href="https://t.me/MetraVoid_Support"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
 
-Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+Rath Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/Ashmit-OP/FallenXMusic?style=for-the-badge" alt="Stars">
@@ -11,7 +11,7 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
     <img src="https://img.shields.io/github/watchers/Ashmit-OP/FallenXMusic?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/license/Ashmit-OP/FallenXMusic?style=for-the-badge" alt="LICENSE">
     <img src="https://img.shields.io/github/commit-activity/w/Ashmit-OP/FallenXMusic?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/Ashmit-OP/FallenXMusic/commits/Ashmit-OP"> <img src="https://img.shields.io/github/last-commit/Ashmit-OP/FallenXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ItzRathXd/RathXMusic/commits/Ashmit-OP"> <img src="https://img.shields.io/github/last-commit/Ashmit-OP/FallenXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <img src="https://img.shields.io/github/contributors/Ashmit-OP/FallenXMusic?style=for-the-badge" alt="Contributors">
     <a href="https://github.com/Ashmit-OP/FallenXMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/Ashmit-OP/FallenXMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -59,12 +59,12 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Ashmit-OP/FallenXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ItzRathXd/RathXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Ashmit-OP/FallenXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ItzRathXd/RathXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -76,8 +76,8 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/Ashmit-OP/FallenXMusic # Clone your repo.
-cd FallenXMusic
+git clone https://github.com/ItzRathXd/RathXMusic # Clone your repo.
+cd RathXMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
 vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
@@ -85,14 +85,14 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [Ashmit](https://github.com/Ashmit-OP): Developer
-- [Fallen Music Bot](https://telegram.me/FALLEN_X_MUSIC_BOT): Test Bot
+- [Rath](https://github.com/ItzRathXd): Developer
+- [Rath Music Bot](https://telegram.me/RATH_X_MUSIC_BOT): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
 <a href="https://telegram.me/MetraVoid_Support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/Ashmit-OP"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ItzRathXd"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
